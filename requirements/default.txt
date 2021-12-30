@@ -49,7 +49,7 @@ cachetools==4.2.2 \
     # via
     #   google-auth
     #   premailer
-celery==4.4.3 \
+celery==5.2.2 \
     --hash=sha256:5147662e23dc6bc39c17a2cbc9a148debe08ecfb128b0eded14a0d9c81fc5742 \
     --hash=sha256:df2937b7536a2a9b18024776a3a46fd281721813636c03a5177fa02fe66078f6
     # via
